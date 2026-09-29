@@ -4,6 +4,8 @@ An automated characterization test generator for web frontends. Point it at any 
 
 > **Characterization testing** means recording what the app *currently does*, not asserting what it *should* do. Tests never fail intentionally — they observe and report.
 
+![Frontend Test Agent UI](docs/screenshot-ui.png)
+
 ---
 
 ## How it works
