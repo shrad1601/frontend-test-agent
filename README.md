@@ -1,6 +1,6 @@
 # frontend-test-agent
 
-An automated characterization test generator for web frontends. Point it at any site, and it crawls the UI, uses an LLM to generate Playwright test cases and spec files, runs them, and fuzzes forms and API endpoints — all without writing a single test by hand.
+An automated characterization test generator for web frontends. Point it at any site, and it crawls the UI, mechanically extracts test cases from the crawl data, generates Playwright spec files from templates, runs them, and fuzzes forms and API endpoints — all without writing a single test by hand.
 
 > **Characterization testing** means recording what the app *currently does*, not asserting what it *should* do. Tests never fail intentionally — they observe and report.
 
@@ -14,7 +14,7 @@ Four stages, each a plain npm script:
 
 ```
 crawler/   →  npm run crawl          Playwright crawl — no LLM, writes raw JSON per page
-generator/ →  npm run generate       LLM groups pages into features, writes test cases + Playwright specs
+generator/ →  npm run generate       pure-code: groups pages by URL, extracts test cases, writes Playwright specs
 runner/    →  npm run run-tests      Runs the generated specs, writes results.json
              npm run report          LLM analyses results, writes bug_report.md
 fuzzer/    →  npm run fuzz           API/path fuzz with boundary inputs
@@ -42,7 +42,7 @@ ANTHROPIC_API_KEY=sk-...
 # GEMINI_API_KEY=...
 ```
 
-Only `npm run generate` and `npm run report` need a key. The crawler, runner, and fuzzer work without one.
+Only `npm run report` and `npm run generate --improve` need a key. The crawler, generator, runner, and fuzzer all work without one.
 
 ---
 
@@ -133,14 +133,14 @@ All providers are called with `temperature: 0` for deterministic output.
 ## Project structure
 
 ```
-crawler/      Playwright-based site crawler
-generator/    LLM-powered test case + spec generator
-  llm.js      Single LLM call entrypoint (Claude / OpenAI / Gemini)
-  grouper.js  Groups crawled pages into features
-  cases.js    Generates test case definitions per feature
-  specs.js    Generates Playwright spec files
+crawler/      Playwright-based site crawler (no LLM)
+generator/    Deterministic test case + spec generator
+  grouper.js  Groups crawled pages into features by URL prefix
+  cases.js    Extracts test cases from crawl data (nav, click, form, error)
+  specs.js    Generates Playwright spec files from templates
   data.js     Generates test input data from crawl schemas
-  improver.js Rewrites failing tests based on error type
+  improver.js (LLM) Rewrites failing tests based on error type
+  llm.js      LLM call entrypoint — only used by improver and reporter
 runner/       Runs generated specs, writes results
 fuzzer/       API + form fuzzer with boundary/edge-case inputs
 server/       Express API for the UI
