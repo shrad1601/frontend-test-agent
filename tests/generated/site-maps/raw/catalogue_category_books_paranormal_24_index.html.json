@@ -1,0 +1,257 @@
+{
+  "url": "/catalogue/category/books/paranormal_24/index.html",
+  "title": "Paranormal | Books to Scrape - Sandbox",
+  "h1": "Paranormal",
+  "linksTo": [
+    {
+      "target": "/index.html",
+      "trigger": "Books to Scrape"
+    },
+    {
+      "target": "/index.html",
+      "trigger": "Home"
+    },
+    {
+      "target": "/books_1/index.html",
+      "trigger": "Books"
+    },
+    {
+      "target": "/books_1/index.html",
+      "trigger": "Books"
+    },
+    {
+      "target": "/travel_2/index.html",
+      "trigger": "Travel"
+    },
+    {
+      "target": "/mystery_3/index.html",
+      "trigger": "Mystery"
+    },
+    {
+      "target": "/historical-fiction_4/index.html",
+      "trigger": "Historical Fiction"
+    },
+    {
+      "target": "/sequential-art_5/index.html",
+      "trigger": "Sequential Art"
+    },
+    {
+      "target": "/classics_6/index.html",
+      "trigger": "Classics"
+    },
+    {
+      "target": "/philosophy_7/index.html",
+      "trigger": "Philosophy"
+    },
+    {
+      "target": "/romance_8/index.html",
+      "trigger": "Romance"
+    },
+    {
+      "target": "/womens-fiction_9/index.html",
+      "trigger": "Womens Fiction"
+    },
+    {
+      "target": "/fiction_10/index.html",
+      "trigger": "Fiction"
+    },
+    {
+      "target": "/childrens_11/index.html",
+      "trigger": "Childrens"
+    },
+    {
+      "target": "/religion_12/index.html",
+      "trigger": "Religion"
+    },
+    {
+      "target": "/nonfiction_13/index.html",
+      "trigger": "Nonfiction"
+    },
+    {
+      "target": "/music_14/index.html",
+      "trigger": "Music"
+    },
+    {
+      "target": "/default_15/index.html",
+      "trigger": "Default"
+    },
+    {
+      "target": "/science-fiction_16/index.html",
+      "trigger": "Science Fiction"
+    },
+    {
+      "target": "/sports-and-games_17/index.html",
+      "trigger": "Sports and Games"
+    },
+    {
+      "target": "/add-a-comment_18/index.html",
+      "trigger": "Add a comment"
+    },
+    {
+      "target": "/fantasy_19/index.html",
+      "trigger": "Fantasy"
+    },
+    {
+      "target": "/new-adult_20/index.html",
+      "trigger": "New Adult"
+    },
+    {
+      "target": "/young-adult_21/index.html",
+      "trigger": "Young Adult"
+    },
+    {
+      "target": "/science_22/index.html",
+      "trigger": "Science"
+    },
+    {
+      "target": "/poetry_23/index.html",
+      "trigger": "Poetry"
+    },
+    {
+      "target": "/index.html",
+      "trigger": "Paranormal"
+    },
+    {
+      "target": "/art_25/index.html",
+      "trigger": "Art"
+    },
+    {
+      "target": "/psychology_26/index.html",
+      "trigger": "Psychology"
+    },
+    {
+      "target": "/autobiography_27/index.html",
+      "trigger": "Autobiography"
+    },
+    {
+      "target": "/parenting_28/index.html",
+      "trigger": "Parenting"
+    },
+    {
+      "target": "/adult-fiction_29/index.html",
+      "trigger": "Adult Fiction"
+    },
+    {
+      "target": "/humor_30/index.html",
+      "trigger": "Humor"
+    },
+    {
+      "target": "/horror_31/index.html",
+      "trigger": "Horror"
+    },
+    {
+      "target": "/history_32/index.html",
+      "trigger": "History"
+    },
+    {
+      "target": "/food-and-drink_33/index.html",
+      "trigger": "Food and Drink"
+    },
+    {
+      "target": "/christian-fiction_34/index.html",
+      "trigger": "Christian Fiction"
+    },
+    {
+      "target": "/business_35/index.html",
+      "trigger": "Business"
+    },
+    {
+      "target": "/biography_36/index.html",
+      "trigger": "Biography"
+    },
+    {
+      "target": "/thriller_37/index.html",
+      "trigger": "Thriller"
+    },
+    {
+      "target": "/contemporary_38/index.html",
+      "trigger": "Contemporary"
+    },
+    {
+      "target": "/spirituality_39/index.html",
+      "trigger": "Spirituality"
+    },
+    {
+      "target": "/academic_40/index.html",
+      "trigger": "Academic"
+    },
+    {
+      "target": "/self-help_41/index.html",
+      "trigger": "Self Help"
+    },
+    {
+      "target": "/historical_42/index.html",
+      "trigger": "Historical"
+    },
+    {
+      "target": "/christian_43/index.html",
+      "trigger": "Christian"
+    },
+    {
+      "target": "/suspense_44/index.html",
+      "trigger": "Suspense"
+    },
+    {
+      "target": "/short-stories_45/index.html",
+      "trigger": "Short Stories"
+    },
+    {
+      "target": "/novels_46/index.html",
+      "trigger": "Novels"
+    },
+    {
+      "target": "/health_47/index.html",
+      "trigger": "Health"
+    },
+    {
+      "target": "/politics_48/index.html",
+      "trigger": "Politics"
+    },
+    {
+      "target": "/cultural_49/index.html",
+      "trigger": "Cultural"
+    },
+    {
+      "target": "/erotica_50/index.html",
+      "trigger": "Erotica"
+    },
+    {
+      "target": "/crime_51/index.html",
+      "trigger": "Crime"
+    },
+    {
+      "target": "/vampire-knight-vol-1-vampire-knight-1_93/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/vampire-knight-vol-1-vampire-knight-1_93/index.html",
+      "trigger": "Vampire Knight, Vol. 1 ..."
+    }
+  ],
+  "forms": [
+    {
+      "formIndex": 0,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": null
+    },
+    {
+      "formIndex": 1,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    }
+  ],
+  "buttons": [],
+  "tables": [],
+  "networkCallsObserved": [],
+  "errorsObserved": [
+    {
+      "type": "console-error",
+      "message": "Mixed Content: The page at 'https://books.toscrape.com/catalogue/category/books/paranormal_24/index.html' was loaded over HTTPS, but requested an insecure script 'http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'. This request has been blocked; the content must be served over HTTPS.",
+      "context": "on page load: /catalogue/category/books/paranormal_24/index.html"
+    }
+  ]
+}

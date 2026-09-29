@@ -1,0 +1,546 @@
+{
+  "url": "/catalogue/category/books/nonfiction_13/index.html",
+  "title": "Nonfiction | Books to Scrape - Sandbox",
+  "h1": "Nonfiction",
+  "linksTo": [
+    {
+      "target": "/index.html",
+      "trigger": "Books to Scrape"
+    },
+    {
+      "target": "/index.html",
+      "trigger": "Home"
+    },
+    {
+      "target": "/books_1/index.html",
+      "trigger": "Books"
+    },
+    {
+      "target": "/books_1/index.html",
+      "trigger": "Books"
+    },
+    {
+      "target": "/travel_2/index.html",
+      "trigger": "Travel"
+    },
+    {
+      "target": "/mystery_3/index.html",
+      "trigger": "Mystery"
+    },
+    {
+      "target": "/historical-fiction_4/index.html",
+      "trigger": "Historical Fiction"
+    },
+    {
+      "target": "/sequential-art_5/index.html",
+      "trigger": "Sequential Art"
+    },
+    {
+      "target": "/classics_6/index.html",
+      "trigger": "Classics"
+    },
+    {
+      "target": "/philosophy_7/index.html",
+      "trigger": "Philosophy"
+    },
+    {
+      "target": "/romance_8/index.html",
+      "trigger": "Romance"
+    },
+    {
+      "target": "/womens-fiction_9/index.html",
+      "trigger": "Womens Fiction"
+    },
+    {
+      "target": "/fiction_10/index.html",
+      "trigger": "Fiction"
+    },
+    {
+      "target": "/childrens_11/index.html",
+      "trigger": "Childrens"
+    },
+    {
+      "target": "/religion_12/index.html",
+      "trigger": "Religion"
+    },
+    {
+      "target": "/index.html",
+      "trigger": "Nonfiction"
+    },
+    {
+      "target": "/music_14/index.html",
+      "trigger": "Music"
+    },
+    {
+      "target": "/default_15/index.html",
+      "trigger": "Default"
+    },
+    {
+      "target": "/science-fiction_16/index.html",
+      "trigger": "Science Fiction"
+    },
+    {
+      "target": "/sports-and-games_17/index.html",
+      "trigger": "Sports and Games"
+    },
+    {
+      "target": "/add-a-comment_18/index.html",
+      "trigger": "Add a comment"
+    },
+    {
+      "target": "/fantasy_19/index.html",
+      "trigger": "Fantasy"
+    },
+    {
+      "target": "/new-adult_20/index.html",
+      "trigger": "New Adult"
+    },
+    {
+      "target": "/young-adult_21/index.html",
+      "trigger": "Young Adult"
+    },
+    {
+      "target": "/science_22/index.html",
+      "trigger": "Science"
+    },
+    {
+      "target": "/poetry_23/index.html",
+      "trigger": "Poetry"
+    },
+    {
+      "target": "/paranormal_24/index.html",
+      "trigger": "Paranormal"
+    },
+    {
+      "target": "/art_25/index.html",
+      "trigger": "Art"
+    },
+    {
+      "target": "/psychology_26/index.html",
+      "trigger": "Psychology"
+    },
+    {
+      "target": "/autobiography_27/index.html",
+      "trigger": "Autobiography"
+    },
+    {
+      "target": "/parenting_28/index.html",
+      "trigger": "Parenting"
+    },
+    {
+      "target": "/adult-fiction_29/index.html",
+      "trigger": "Adult Fiction"
+    },
+    {
+      "target": "/humor_30/index.html",
+      "trigger": "Humor"
+    },
+    {
+      "target": "/horror_31/index.html",
+      "trigger": "Horror"
+    },
+    {
+      "target": "/history_32/index.html",
+      "trigger": "History"
+    },
+    {
+      "target": "/food-and-drink_33/index.html",
+      "trigger": "Food and Drink"
+    },
+    {
+      "target": "/christian-fiction_34/index.html",
+      "trigger": "Christian Fiction"
+    },
+    {
+      "target": "/business_35/index.html",
+      "trigger": "Business"
+    },
+    {
+      "target": "/biography_36/index.html",
+      "trigger": "Biography"
+    },
+    {
+      "target": "/thriller_37/index.html",
+      "trigger": "Thriller"
+    },
+    {
+      "target": "/contemporary_38/index.html",
+      "trigger": "Contemporary"
+    },
+    {
+      "target": "/spirituality_39/index.html",
+      "trigger": "Spirituality"
+    },
+    {
+      "target": "/academic_40/index.html",
+      "trigger": "Academic"
+    },
+    {
+      "target": "/self-help_41/index.html",
+      "trigger": "Self Help"
+    },
+    {
+      "target": "/historical_42/index.html",
+      "trigger": "Historical"
+    },
+    {
+      "target": "/christian_43/index.html",
+      "trigger": "Christian"
+    },
+    {
+      "target": "/suspense_44/index.html",
+      "trigger": "Suspense"
+    },
+    {
+      "target": "/short-stories_45/index.html",
+      "trigger": "Short Stories"
+    },
+    {
+      "target": "/novels_46/index.html",
+      "trigger": "Novels"
+    },
+    {
+      "target": "/health_47/index.html",
+      "trigger": "Health"
+    },
+    {
+      "target": "/politics_48/index.html",
+      "trigger": "Politics"
+    },
+    {
+      "target": "/cultural_49/index.html",
+      "trigger": "Cultural"
+    },
+    {
+      "target": "/erotica_50/index.html",
+      "trigger": "Erotica"
+    },
+    {
+      "target": "/crime_51/index.html",
+      "trigger": "Crime"
+    },
+    {
+      "target": "/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html",
+      "trigger": "Worlds Elsewhere: Journeys Around ..."
+    },
+    {
+      "target": "/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html",
+      "trigger": "The Five Love Languages: ..."
+    },
+    {
+      "target": "/reasons-to-stay-alive_959/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/reasons-to-stay-alive_959/index.html",
+      "trigger": "Reasons to Stay Alive"
+    },
+    {
+      "target": "/higherselfie-wake-up-your-life-free-your-soul-find-your-tribe_957/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/higherselfie-wake-up-your-life-free-your-soul-find-your-tribe_957/index.html",
+      "trigger": "#HigherSelfie: Wake Up Your ..."
+    },
+    {
+      "target": "/unseen-city-the-majesty-of-pigeons-the-discreet-charm-of-snails-other-wonders-of-the-urban-wilderness_952/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/unseen-city-the-majesty-of-pigeons-the-discreet-charm-of-snails-other-wonders-of-the-urban-wilderness_952/index.html",
+      "trigger": "Unseen City: The Majesty ..."
+    },
+    {
+      "target": "/throwing-rocks-at-the-google-bus-how-growth-became-the-enemy-of-prosperity_948/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/throwing-rocks-at-the-google-bus-how-growth-became-the-enemy-of-prosperity_948/index.html",
+      "trigger": "Throwing Rocks at the ..."
+    },
+    {
+      "target": "/the-life-changing-magic-of-tidying-up-the-japanese-art-of-decluttering-and-organizing_936/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/the-life-changing-magic-of-tidying-up-the-japanese-art-of-decluttering-and-organizing_936/index.html",
+      "trigger": "The Life-Changing Magic of ..."
+    },
+    {
+      "target": "/the-gutsy-girl-escapades-for-your-life-of-epic-adventure_934/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/the-gutsy-girl-escapades-for-your-life-of-epic-adventure_934/index.html",
+      "trigger": "The Gutsy Girl: Escapades ..."
+    },
+    {
+      "target": "/the-electric-pencil-drawings-from-inside-state-hospital-no-3_933/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/the-electric-pencil-drawings-from-inside-state-hospital-no-3_933/index.html",
+      "trigger": "The Electric Pencil: Drawings ..."
+    },
+    {
+      "target": "/spark-joy-an-illustrated-master-class-on-the-art-of-organizing-and-tidying-up_927/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/spark-joy-an-illustrated-master-class-on-the-art-of-organizing-and-tidying-up_927/index.html",
+      "trigger": "Spark Joy: An Illustrated ..."
+    },
+    {
+      "target": "/reskilling-america-learning-to-labor-in-the-twenty-first-century_922/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/reskilling-america-learning-to-labor-in-the-twenty-first-century_922/index.html",
+      "trigger": "Reskilling America: Learning to ..."
+    },
+    {
+      "target": "/in-the-country-we-love-my-family-divided_901/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/in-the-country-we-love-my-family-divided_901/index.html",
+      "trigger": "In the Country We ..."
+    },
+    {
+      "target": "/everydata-the-misinformation-hidden-in-the-little-data-you-consume-every-day_891/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/everydata-the-misinformation-hidden-in-the-little-data-you-consume-every-day_891/index.html",
+      "trigger": "Everydata: The Misinformation Hidden ..."
+    },
+    {
+      "target": "/call-the-nurse-true-stories-of-a-country-nurse-on-a-scottish-isle_885/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/call-the-nurse-true-stories-of-a-country-nurse-on-a-scottish-isle_885/index.html",
+      "trigger": "Call the Nurse: True ..."
+    },
+    {
+      "target": "/algorithms-to-live-by-the-computer-science-of-human-decisions_880/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/algorithms-to-live-by-the-computer-science-of-human-decisions_880/index.html",
+      "trigger": "Algorithms to Live By: ..."
+    },
+    {
+      "target": "/the-power-of-now-a-guide-to-spiritual-enlightenment_855/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/the-power-of-now-a-guide-to-spiritual-enlightenment_855/index.html",
+      "trigger": "The Power of Now: ..."
+    },
+    {
+      "target": "/the-omnivores-dilemma-a-natural-history-of-four-meals_854/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/the-omnivores-dilemma-a-natural-history-of-four-meals_854/index.html",
+      "trigger": "The Omnivore's Dilemma: A ..."
+    },
+    {
+      "target": "/the-genius-of-birds_843/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/the-genius-of-birds_843/index.html",
+      "trigger": "The Genius of Birds"
+    },
+    {
+      "target": "/the-artists-way-a-spiritual-path-to-higher-creativity_839/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/the-artists-way-a-spiritual-path-to-higher-creativity_839/index.html",
+      "trigger": "The Artist's Way: A ..."
+    },
+    {
+      "target": "/so-youve-been-publicly-shamed_832/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/so-youve-been-publicly-shamed_832/index.html",
+      "trigger": "So You've Been Publicly ..."
+    },
+    {
+      "target": "/page-2.html",
+      "trigger": "next"
+    }
+  ],
+  "forms": [
+    {
+      "formIndex": 0,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": null
+    },
+    {
+      "formIndex": 1,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 2,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 3,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 4,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 5,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 6,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 7,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 8,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 9,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 10,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 11,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 12,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 13,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 14,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 15,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 16,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 17,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 18,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 19,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 20,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    }
+  ],
+  "buttons": [],
+  "tables": [],
+  "networkCallsObserved": [],
+  "errorsObserved": [
+    {
+      "type": "console-error",
+      "message": "Mixed Content: The page at 'https://books.toscrape.com/catalogue/category/books/nonfiction_13/index.html' was loaded over HTTPS, but requested an insecure script 'http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'. This request has been blocked; the content must be served over HTTPS.",
+      "context": "on page load: /catalogue/category/books/nonfiction_13/index.html"
+    }
+  ]
+}

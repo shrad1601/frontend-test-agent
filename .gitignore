@@ -1,0 +1,6 @@
+.env
+node_modules/
+ui/node_modules/
+.DS_Store
+tests/generated/reports/screenshots/
+tests/generated/fuzz/reports/screenshots/

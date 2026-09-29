@@ -1,0 +1,106 @@
+[
+  {
+    "id": "TC-FUZZ-001-A",
+    "description": "POST /j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330 with valid data",
+    "method": "POST",
+    "endpoint": "/j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330",
+    "type": "happy-path",
+    "input": {
+      "name": "Test User",
+      "email": "test@example.com"
+    },
+    "statusCode": 200,
+    "responseBody": "<!doctype html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\"/>\n    <link rel=\"icon\" type=\"image/svg+xml\" href=\"/vite.svg\"/>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>\n    <title>demosite</title>\n  <script type=\"module\" crossorigin src=\"/assets/index-D_rDx8ml.js\"",
+    "responseTime": 650,
+    "anomaly": false,
+    "anomalyType": null,
+    "error": null,
+    "timestamp": "2026-06-25T08:40:51.553Z"
+  },
+  {
+    "id": "TC-FUZZ-001-B",
+    "description": "POST /j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330 with empty body",
+    "method": "POST",
+    "endpoint": "/j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330",
+    "type": "boundary",
+    "input": {},
+    "statusCode": 200,
+    "responseBody": "<!doctype html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\"/>\n    <link rel=\"icon\" type=\"image/svg+xml\" href=\"/vite.svg\"/>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>\n    <title>demosite</title>\n  <script type=\"module\" crossorigin src=\"/assets/index-D_rDx8ml.js\"",
+    "responseTime": 168,
+    "anomaly": false,
+    "anomalyType": null,
+    "error": null,
+    "timestamp": "2026-06-25T08:40:51.722Z"
+  },
+  {
+    "id": "TC-FUZZ-001-C",
+    "description": "POST /j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330 with null values",
+    "method": "POST",
+    "endpoint": "/j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330",
+    "type": "edge-case",
+    "input": {
+      "name": null,
+      "email": null
+    },
+    "statusCode": 200,
+    "responseBody": "<!doctype html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\"/>\n    <link rel=\"icon\" type=\"image/svg+xml\" href=\"/vite.svg\"/>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>\n    <title>demosite</title>\n  <script type=\"module\" crossorigin src=\"/assets/index-D_rDx8ml.js\"",
+    "responseTime": 167,
+    "anomaly": false,
+    "anomalyType": null,
+    "error": null,
+    "timestamp": "2026-06-25T08:40:51.889Z"
+  },
+  {
+    "id": "TC-FUZZ-001-D",
+    "description": "POST /j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330 with very long string values",
+    "method": "POST",
+    "endpoint": "/j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330",
+    "type": "boundary",
+    "input": {
+      "name": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "email": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    },
+    "statusCode": 200,
+    "responseBody": "<!doctype html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\"/>\n    <link rel=\"icon\" type=\"image/svg+xml\" href=\"/vite.svg\"/>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>\n    <title>demosite</title>\n  <script type=\"module\" crossorigin src=\"/assets/index-D_rDx8ml.js\"",
+    "responseTime": 170,
+    "anomaly": false,
+    "anomalyType": null,
+    "error": null,
+    "timestamp": "2026-06-25T08:40:52.059Z"
+  },
+  {
+    "id": "TC-FUZZ-001-E",
+    "description": "POST /j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330 with special characters",
+    "method": "POST",
+    "endpoint": "/j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330",
+    "type": "edge-case",
+    "input": {
+      "name": "<script>alert('xss')</script>; DROP TABLE clients;--",
+      "email": "<script>alert('xss')</script>; DROP TABLE clients;--"
+    },
+    "statusCode": 200,
+    "responseBody": "<!doctype html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\"/>\n    <link rel=\"icon\" type=\"image/svg+xml\" href=\"/vite.svg\"/>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>\n    <title>demosite</title>\n  <script type=\"module\" crossorigin src=\"/assets/index-D_rDx8ml.js\"",
+    "responseTime": 169,
+    "anomaly": false,
+    "anomalyType": null,
+    "error": null,
+    "timestamp": "2026-06-25T08:40:52.229Z"
+  },
+  {
+    "id": "TC-FUZZ-001-F",
+    "description": "POST /j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330 with missing required fields",
+    "method": "POST",
+    "endpoint": "/j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330",
+    "type": "boundary",
+    "input": {
+      "name": "only-this-field"
+    },
+    "statusCode": 200,
+    "responseBody": "<!doctype html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\"/>\n    <link rel=\"icon\" type=\"image/svg+xml\" href=\"/vite.svg\"/>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>\n    <title>demosite</title>\n  <script type=\"module\" crossorigin src=\"/assets/index-D_rDx8ml.js\"",
+    "responseTime": 166,
+    "anomaly": false,
+    "anomalyType": null,
+    "error": null,
+    "timestamp": "2026-06-25T08:40:52.396Z"
+  }
+]

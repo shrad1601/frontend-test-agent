@@ -1,0 +1,53 @@
+{
+  "feature": "API Fuzz",
+  "cases": [
+    {
+      "id": "TC-FUZZ-001-A",
+      "description": "POST /j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330 with valid data",
+      "method": "POST",
+      "endpoint": "/j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330",
+      "exampleURL": "/j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330",
+      "type": "happy-path"
+    },
+    {
+      "id": "TC-FUZZ-001-B",
+      "description": "POST /j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330 with empty body",
+      "method": "POST",
+      "endpoint": "/j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330",
+      "exampleURL": "/j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330",
+      "type": "boundary"
+    },
+    {
+      "id": "TC-FUZZ-001-C",
+      "description": "POST /j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330 with null values",
+      "method": "POST",
+      "endpoint": "/j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330",
+      "exampleURL": "/j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330",
+      "type": "edge-case"
+    },
+    {
+      "id": "TC-FUZZ-001-D",
+      "description": "POST /j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330 with very long string values",
+      "method": "POST",
+      "endpoint": "/j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330",
+      "exampleURL": "/j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330",
+      "type": "boundary"
+    },
+    {
+      "id": "TC-FUZZ-001-E",
+      "description": "POST /j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330 with special characters",
+      "method": "POST",
+      "endpoint": "/j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330",
+      "exampleURL": "/j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330",
+      "type": "edge-case"
+    },
+    {
+      "id": "TC-FUZZ-001-F",
+      "description": "POST /j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330 with missing required fields",
+      "method": "POST",
+      "endpoint": "/j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330",
+      "exampleURL": "/j/collect?v=1&_v=j102&a=107233949&t=pageview&_s=1&dl=https%3A%2F%2Fdemoqa.com%2F&ul=en-us&dt=demosite&sr=1280x720&vp=1280x720&_u=YEBAAEABAAAAACAAI~&jid=821193854&gjid=1992844323&cid=1379930352.1782376603&tid=UA-109033876-1&_gid=413019956.1782376603&_r=1&_slc=1&gtm=45He66n1n81MX8DD4Sv855226469za200zd855226469&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468~119027224&z=1726621330",
+      "type": "boundary"
+    }
+  ]
+}

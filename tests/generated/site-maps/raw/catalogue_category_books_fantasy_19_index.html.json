@@ -1,0 +1,546 @@
+{
+  "url": "/catalogue/category/books/fantasy_19/index.html",
+  "title": "Fantasy | Books to Scrape - Sandbox",
+  "h1": "Fantasy",
+  "linksTo": [
+    {
+      "target": "/index.html",
+      "trigger": "Books to Scrape"
+    },
+    {
+      "target": "/index.html",
+      "trigger": "Home"
+    },
+    {
+      "target": "/books_1/index.html",
+      "trigger": "Books"
+    },
+    {
+      "target": "/books_1/index.html",
+      "trigger": "Books"
+    },
+    {
+      "target": "/travel_2/index.html",
+      "trigger": "Travel"
+    },
+    {
+      "target": "/mystery_3/index.html",
+      "trigger": "Mystery"
+    },
+    {
+      "target": "/historical-fiction_4/index.html",
+      "trigger": "Historical Fiction"
+    },
+    {
+      "target": "/sequential-art_5/index.html",
+      "trigger": "Sequential Art"
+    },
+    {
+      "target": "/classics_6/index.html",
+      "trigger": "Classics"
+    },
+    {
+      "target": "/philosophy_7/index.html",
+      "trigger": "Philosophy"
+    },
+    {
+      "target": "/romance_8/index.html",
+      "trigger": "Romance"
+    },
+    {
+      "target": "/womens-fiction_9/index.html",
+      "trigger": "Womens Fiction"
+    },
+    {
+      "target": "/fiction_10/index.html",
+      "trigger": "Fiction"
+    },
+    {
+      "target": "/childrens_11/index.html",
+      "trigger": "Childrens"
+    },
+    {
+      "target": "/religion_12/index.html",
+      "trigger": "Religion"
+    },
+    {
+      "target": "/nonfiction_13/index.html",
+      "trigger": "Nonfiction"
+    },
+    {
+      "target": "/music_14/index.html",
+      "trigger": "Music"
+    },
+    {
+      "target": "/default_15/index.html",
+      "trigger": "Default"
+    },
+    {
+      "target": "/science-fiction_16/index.html",
+      "trigger": "Science Fiction"
+    },
+    {
+      "target": "/sports-and-games_17/index.html",
+      "trigger": "Sports and Games"
+    },
+    {
+      "target": "/add-a-comment_18/index.html",
+      "trigger": "Add a comment"
+    },
+    {
+      "target": "/index.html",
+      "trigger": "Fantasy"
+    },
+    {
+      "target": "/new-adult_20/index.html",
+      "trigger": "New Adult"
+    },
+    {
+      "target": "/young-adult_21/index.html",
+      "trigger": "Young Adult"
+    },
+    {
+      "target": "/science_22/index.html",
+      "trigger": "Science"
+    },
+    {
+      "target": "/poetry_23/index.html",
+      "trigger": "Poetry"
+    },
+    {
+      "target": "/paranormal_24/index.html",
+      "trigger": "Paranormal"
+    },
+    {
+      "target": "/art_25/index.html",
+      "trigger": "Art"
+    },
+    {
+      "target": "/psychology_26/index.html",
+      "trigger": "Psychology"
+    },
+    {
+      "target": "/autobiography_27/index.html",
+      "trigger": "Autobiography"
+    },
+    {
+      "target": "/parenting_28/index.html",
+      "trigger": "Parenting"
+    },
+    {
+      "target": "/adult-fiction_29/index.html",
+      "trigger": "Adult Fiction"
+    },
+    {
+      "target": "/humor_30/index.html",
+      "trigger": "Humor"
+    },
+    {
+      "target": "/horror_31/index.html",
+      "trigger": "Horror"
+    },
+    {
+      "target": "/history_32/index.html",
+      "trigger": "History"
+    },
+    {
+      "target": "/food-and-drink_33/index.html",
+      "trigger": "Food and Drink"
+    },
+    {
+      "target": "/christian-fiction_34/index.html",
+      "trigger": "Christian Fiction"
+    },
+    {
+      "target": "/business_35/index.html",
+      "trigger": "Business"
+    },
+    {
+      "target": "/biography_36/index.html",
+      "trigger": "Biography"
+    },
+    {
+      "target": "/thriller_37/index.html",
+      "trigger": "Thriller"
+    },
+    {
+      "target": "/contemporary_38/index.html",
+      "trigger": "Contemporary"
+    },
+    {
+      "target": "/spirituality_39/index.html",
+      "trigger": "Spirituality"
+    },
+    {
+      "target": "/academic_40/index.html",
+      "trigger": "Academic"
+    },
+    {
+      "target": "/self-help_41/index.html",
+      "trigger": "Self Help"
+    },
+    {
+      "target": "/historical_42/index.html",
+      "trigger": "Historical"
+    },
+    {
+      "target": "/christian_43/index.html",
+      "trigger": "Christian"
+    },
+    {
+      "target": "/suspense_44/index.html",
+      "trigger": "Suspense"
+    },
+    {
+      "target": "/short-stories_45/index.html",
+      "trigger": "Short Stories"
+    },
+    {
+      "target": "/novels_46/index.html",
+      "trigger": "Novels"
+    },
+    {
+      "target": "/health_47/index.html",
+      "trigger": "Health"
+    },
+    {
+      "target": "/politics_48/index.html",
+      "trigger": "Politics"
+    },
+    {
+      "target": "/cultural_49/index.html",
+      "trigger": "Cultural"
+    },
+    {
+      "target": "/erotica_50/index.html",
+      "trigger": "Erotica"
+    },
+    {
+      "target": "/crime_51/index.html",
+      "trigger": "Crime"
+    },
+    {
+      "target": "/unicorn-tracks_951/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/unicorn-tracks_951/index.html",
+      "trigger": "Unicorn Tracks"
+    },
+    {
+      "target": "/saga-volume-6-saga-collected-editions-6_924/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/saga-volume-6-saga-collected-editions-6_924/index.html",
+      "trigger": "Saga, Volume 6 (Saga ..."
+    },
+    {
+      "target": "/princess-between-worlds-wide-awake-princess-5_919/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/princess-between-worlds-wide-awake-princess-5_919/index.html",
+      "trigger": "Princess Between Worlds (Wide-Awake ..."
+    },
+    {
+      "target": "/masks-and-shadows_909/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/masks-and-shadows_909/index.html",
+      "trigger": "Masks and Shadows"
+    },
+    {
+      "target": "/crown-of-midnight-throne-of-glass-2_888/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/crown-of-midnight-throne-of-glass-2_888/index.html",
+      "trigger": "Crown of Midnight (Throne ..."
+    },
+    {
+      "target": "/avatar-the-last-airbender-smoke-and-shadow-part-3-smoke-and-shadow-3_881/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/avatar-the-last-airbender-smoke-and-shadow-part-3-smoke-and-shadow-3_881/index.html",
+      "trigger": "Avatar: The Last Airbender: ..."
+    },
+    {
+      "target": "/a-court-of-thorns-and-roses-a-court-of-thorns-and-roses-1_874/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/a-court-of-thorns-and-roses-a-court-of-thorns-and-roses-1_874/index.html",
+      "trigger": "A Court of Thorns ..."
+    },
+    {
+      "target": "/throne-of-glass-throne-of-glass-1_868/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/throne-of-glass-throne-of-glass-1_868/index.html",
+      "trigger": "Throne of Glass (Throne ..."
+    },
+    {
+      "target": "/the-glittering-court-the-glittering-court-1_845/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/the-glittering-court-the-glittering-court-1_845/index.html",
+      "trigger": "The Glittering Court (The ..."
+    },
+    {
+      "target": "/hollow-city-miss-peregrines-peculiar-children-2_813/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/hollow-city-miss-peregrines-peculiar-children-2_813/index.html",
+      "trigger": "Hollow City (Miss Peregrine’s ..."
+    },
+    {
+      "target": "/the-star-touched-queen_764/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/the-star-touched-queen_764/index.html",
+      "trigger": "The Star-Touched Queen"
+    },
+    {
+      "target": "/the-hidden-oracle-the-trials-of-apollo-1_752/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/the-hidden-oracle-the-trials-of-apollo-1_752/index.html",
+      "trigger": "The Hidden Oracle (The ..."
+    },
+    {
+      "target": "/the-bane-chronicles-the-bane-chronicles-1-11_746/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/the-bane-chronicles-the-bane-chronicles-1-11_746/index.html",
+      "trigger": "The Bane Chronicles (The ..."
+    },
+    {
+      "target": "/island-of-dragons-unwanteds-7_705/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/island-of-dragons-unwanteds-7_705/index.html",
+      "trigger": "Island of Dragons (Unwanteds ..."
+    },
+    {
+      "target": "/demigods-magicians-percy-and-annabeth-meet-the-kanes-percy-jackson-kane-chronicles-crossover-1-3_685/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/demigods-magicians-percy-and-annabeth-meet-the-kanes-percy-jackson-kane-chronicles-crossover-1-3_685/index.html",
+      "trigger": "Demigods & Magicians: Percy ..."
+    },
+    {
+      "target": "/city-of-glass-the-mortal-instruments-3_678/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/city-of-glass-the-mortal-instruments-3_678/index.html",
+      "trigger": "City of Glass (The ..."
+    },
+    {
+      "target": "/searching-for-meaning-in-gailana_648/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/searching-for-meaning-in-gailana_648/index.html",
+      "trigger": "Searching for Meaning in ..."
+    },
+    {
+      "target": "/the-star-touched-queen_642/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/the-star-touched-queen_642/index.html",
+      "trigger": "The Star-Touched Queen"
+    },
+    {
+      "target": "/a-shard-of-ice-the-black-symphony-saga-1_558/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/a-shard-of-ice-the-black-symphony-saga-1_558/index.html",
+      "trigger": "A Shard of Ice ..."
+    },
+    {
+      "target": "/kings-folly-the-kinsman-chronicles-1_473/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/kings-folly-the-kinsman-chronicles-1_473/index.html",
+      "trigger": "King's Folly (The Kinsman ..."
+    },
+    {
+      "target": "/page-2.html",
+      "trigger": "next"
+    }
+  ],
+  "forms": [
+    {
+      "formIndex": 0,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": null
+    },
+    {
+      "formIndex": 1,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 2,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 3,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 4,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 5,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 6,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 7,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 8,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 9,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 10,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 11,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 12,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 13,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 14,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 15,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 16,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 17,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 18,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 19,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 20,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    }
+  ],
+  "buttons": [],
+  "tables": [],
+  "networkCallsObserved": [],
+  "errorsObserved": [
+    {
+      "type": "console-error",
+      "message": "Mixed Content: The page at 'https://books.toscrape.com/catalogue/category/books/fantasy_19/index.html' was loaded over HTTPS, but requested an insecure script 'http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'. This request has been blocked; the content must be served over HTTPS.",
+      "context": "on page load: /catalogue/category/books/fantasy_19/index.html"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "baseURL": "https://books.toscrape.com",
+  "crawlDate": "2026-06-27T13:12:22.128Z",
+  "authResult": {
+    "attempted": false,
+    "success": true,
+    "message": "No auth configured"
+  },
+  "isSPA": false,
+  "pagesVisited": 30,
+  "pages": [
+    {
+      "url": "/",
+      "title": "All products | Books to Scrape - Sandbox",
+      "depth": 0
+    },
+    {
+      "url": "/index.html",
+      "title": "All products | Books to Scrape - Sandbox",
+      "depth": 1
+    },
+    {
+      "url": "/catalogue/category/books_1/index.html",
+      "title": "Books | Books to Scrape - Sandbox",
+      "depth": 1
+    },
+    {
+      "url": "/catalogue/category/books/travel_2/index.html",
+      "title": "Travel | Books to Scrape - Sandbox",
+      "depth": 1
+    },
+    {
+      "url": "/catalogue/category/books/mystery_3/index.html",
+      "title": "Mystery | Books to Scrape - Sandbox",
+      "depth": 1
+    },
+    {
+      "url": "/catalogue/category/books/historical-fiction_4/index.html",
+      "title": "Historical Fiction | Books to Scrape - Sandbox",
+      "depth": 1
+    },
+    {
+      "url": "/catalogue/category/books/sequential-art_5/index.html",
+      "title": "Sequential Art | Books to Scrape - Sandbox",
+      "depth": 1
+    },
+    {
+      "url": "/catalogue/category/books/classics_6/index.html",
+      "title": "Classics | Books to Scrape - Sandbox",
+      "depth": 1
+    },
+    {
+      "url": "/catalogue/category/books/philosophy_7/index.html",
+      "title": "Philosophy | Books to Scrape - Sandbox",
+      "depth": 1
+    },
+    {
+      "url": "/catalogue/category/books/romance_8/index.html",
+      "title": "Romance | Books to Scrape - Sandbox",
+      "depth": 1
+    },
+    {
+      "url": "/catalogue/category/books/womens-fiction_9/index.html",
+      "title": "Womens Fiction | Books to Scrape - Sandbox",
+      "depth": 1
+    },
+    {
+      "url": "/catalogue/category/books/fiction_10/index.html",
+      "title": "Fiction | Books to Scrape - Sandbox",
+      "depth": 1
+    },
+    {
+      "url": "/catalogue/category/books/childrens_11/index.html",
+      "title": "Childrens | Books to Scrape - Sandbox",
+      "depth": 1
+    },
+    {
+      "url": "/catalogue/category/books/religion_12/index.html",
+      "title": "Religion | Books to Scrape - Sandbox",
+      "depth": 1
+    },
+    {
+      "url": "/catalogue/category/books/nonfiction_13/index.html",
+      "title": "Nonfiction | Books to Scrape - Sandbox",
+      "depth": 1
+    },
+    {
+      "url": "/catalogue/category/books/music_14/index.html",
+      "title": "Music | Books to Scrape - Sandbox",
+      "depth": 1
+    },
+    {
+      "url": "/catalogue/category/books/default_15/index.html",
+      "title": "Default | Books to Scrape - Sandbox",
+      "depth": 1
+    },
+    {
+      "url": "/catalogue/category/books/science-fiction_16/index.html",
+      "title": "Science Fiction | Books to Scrape - Sandbox",
+      "depth": 1
+    },
+    {
+      "url": "/catalogue/category/books/sports-and-games_17/index.html",
+      "title": "Sports and Games | Books to Scrape - Sandbox",
+      "depth": 1
+    },
+    {
+      "url": "/catalogue/category/books/add-a-comment_18/index.html",
+      "title": "Add a comment | Books to Scrape - Sandbox",
+      "depth": 1
+    },
+    {
+      "url": "/catalogue/category/books/fantasy_19/index.html",
+      "title": "Fantasy | Books to Scrape - Sandbox",
+      "depth": 1
+    },
+    {
+      "url": "/catalogue/category/books/new-adult_20/index.html",
+      "title": "New Adult | Books to Scrape - Sandbox",
+      "depth": 1
+    },
+    {
+      "url": "/catalogue/category/books/young-adult_21/index.html",
+      "title": "Young Adult | Books to Scrape - Sandbox",
+      "depth": 1
+    },
+    {
+      "url": "/catalogue/category/books/science_22/index.html",
+      "title": "Science | Books to Scrape - Sandbox",
+      "depth": 1
+    },
+    {
+      "url": "/catalogue/category/books/poetry_23/index.html",
+      "title": "Poetry | Books to Scrape - Sandbox",
+      "depth": 1
+    },
+    {
+      "url": "/catalogue/category/books/paranormal_24/index.html",
+      "title": "Paranormal | Books to Scrape - Sandbox",
+      "depth": 1
+    },
+    {
+      "url": "/catalogue/category/books/art_25/index.html",
+      "title": "Art | Books to Scrape - Sandbox",
+      "depth": 1
+    },
+    {
+      "url": "/catalogue/category/books/psychology_26/index.html",
+      "title": "Psychology | Books to Scrape - Sandbox",
+      "depth": 1
+    },
+    {
+      "url": "/catalogue/category/books/autobiography_27/index.html",
+      "title": "Autobiography | Books to Scrape - Sandbox",
+      "depth": 1
+    },
+    {
+      "url": "/catalogue/category/books/parenting_28/index.html",
+      "title": "Parenting | Books to Scrape - Sandbox",
+      "depth": 1
+    }
+  ],
+  "inferredRoutePatterns": [
+    "/",
+    "/index.html",
+    "/catalogue/category/books_1/index.html",
+    "/catalogue/category/books/travel_2/index.html",
+    "/catalogue/category/books/mystery_3/index.html",
+    "/catalogue/category/books/historical-fiction_4/index.html",
+    "/catalogue/category/books/sequential-art_5/index.html",
+    "/catalogue/category/books/classics_6/index.html",
+    "/catalogue/category/books/philosophy_7/index.html",
+    "/catalogue/category/books/romance_8/index.html",
+    "/catalogue/category/books/womens-fiction_9/index.html",
+    "/catalogue/category/books/fiction_10/index.html",
+    "/catalogue/category/books/childrens_11/index.html",
+    "/catalogue/category/books/religion_12/index.html",
+    "/catalogue/category/books/nonfiction_13/index.html",
+    "/catalogue/category/books/music_14/index.html",
+    "/catalogue/category/books/default_15/index.html",
+    "/catalogue/category/books/science-fiction_16/index.html",
+    "/catalogue/category/books/sports-and-games_17/index.html",
+    "/catalogue/category/books/add-a-comment_18/index.html",
+    "/catalogue/category/books/fantasy_19/index.html",
+    "/catalogue/category/books/new-adult_20/index.html",
+    "/catalogue/category/books/young-adult_21/index.html",
+    "/catalogue/category/books/science_22/index.html",
+    "/catalogue/category/books/poetry_23/index.html",
+    "/catalogue/category/books/paranormal_24/index.html",
+    "/catalogue/category/books/art_25/index.html",
+    "/catalogue/category/books/psychology_26/index.html",
+    "/catalogue/category/books/autobiography_27/index.html",
+    "/catalogue/category/books/parenting_28/index.html"
+  ]
+}

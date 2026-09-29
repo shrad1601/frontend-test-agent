@@ -1,0 +1,527 @@
+{
+  "url": "/catalogue/category/books/poetry_23/index.html",
+  "title": "Poetry | Books to Scrape - Sandbox",
+  "h1": "Poetry",
+  "linksTo": [
+    {
+      "target": "/index.html",
+      "trigger": "Books to Scrape"
+    },
+    {
+      "target": "/index.html",
+      "trigger": "Home"
+    },
+    {
+      "target": "/books_1/index.html",
+      "trigger": "Books"
+    },
+    {
+      "target": "/books_1/index.html",
+      "trigger": "Books"
+    },
+    {
+      "target": "/travel_2/index.html",
+      "trigger": "Travel"
+    },
+    {
+      "target": "/mystery_3/index.html",
+      "trigger": "Mystery"
+    },
+    {
+      "target": "/historical-fiction_4/index.html",
+      "trigger": "Historical Fiction"
+    },
+    {
+      "target": "/sequential-art_5/index.html",
+      "trigger": "Sequential Art"
+    },
+    {
+      "target": "/classics_6/index.html",
+      "trigger": "Classics"
+    },
+    {
+      "target": "/philosophy_7/index.html",
+      "trigger": "Philosophy"
+    },
+    {
+      "target": "/romance_8/index.html",
+      "trigger": "Romance"
+    },
+    {
+      "target": "/womens-fiction_9/index.html",
+      "trigger": "Womens Fiction"
+    },
+    {
+      "target": "/fiction_10/index.html",
+      "trigger": "Fiction"
+    },
+    {
+      "target": "/childrens_11/index.html",
+      "trigger": "Childrens"
+    },
+    {
+      "target": "/religion_12/index.html",
+      "trigger": "Religion"
+    },
+    {
+      "target": "/nonfiction_13/index.html",
+      "trigger": "Nonfiction"
+    },
+    {
+      "target": "/music_14/index.html",
+      "trigger": "Music"
+    },
+    {
+      "target": "/default_15/index.html",
+      "trigger": "Default"
+    },
+    {
+      "target": "/science-fiction_16/index.html",
+      "trigger": "Science Fiction"
+    },
+    {
+      "target": "/sports-and-games_17/index.html",
+      "trigger": "Sports and Games"
+    },
+    {
+      "target": "/add-a-comment_18/index.html",
+      "trigger": "Add a comment"
+    },
+    {
+      "target": "/fantasy_19/index.html",
+      "trigger": "Fantasy"
+    },
+    {
+      "target": "/new-adult_20/index.html",
+      "trigger": "New Adult"
+    },
+    {
+      "target": "/young-adult_21/index.html",
+      "trigger": "Young Adult"
+    },
+    {
+      "target": "/science_22/index.html",
+      "trigger": "Science"
+    },
+    {
+      "target": "/index.html",
+      "trigger": "Poetry"
+    },
+    {
+      "target": "/paranormal_24/index.html",
+      "trigger": "Paranormal"
+    },
+    {
+      "target": "/art_25/index.html",
+      "trigger": "Art"
+    },
+    {
+      "target": "/psychology_26/index.html",
+      "trigger": "Psychology"
+    },
+    {
+      "target": "/autobiography_27/index.html",
+      "trigger": "Autobiography"
+    },
+    {
+      "target": "/parenting_28/index.html",
+      "trigger": "Parenting"
+    },
+    {
+      "target": "/adult-fiction_29/index.html",
+      "trigger": "Adult Fiction"
+    },
+    {
+      "target": "/humor_30/index.html",
+      "trigger": "Humor"
+    },
+    {
+      "target": "/horror_31/index.html",
+      "trigger": "Horror"
+    },
+    {
+      "target": "/history_32/index.html",
+      "trigger": "History"
+    },
+    {
+      "target": "/food-and-drink_33/index.html",
+      "trigger": "Food and Drink"
+    },
+    {
+      "target": "/christian-fiction_34/index.html",
+      "trigger": "Christian Fiction"
+    },
+    {
+      "target": "/business_35/index.html",
+      "trigger": "Business"
+    },
+    {
+      "target": "/biography_36/index.html",
+      "trigger": "Biography"
+    },
+    {
+      "target": "/thriller_37/index.html",
+      "trigger": "Thriller"
+    },
+    {
+      "target": "/contemporary_38/index.html",
+      "trigger": "Contemporary"
+    },
+    {
+      "target": "/spirituality_39/index.html",
+      "trigger": "Spirituality"
+    },
+    {
+      "target": "/academic_40/index.html",
+      "trigger": "Academic"
+    },
+    {
+      "target": "/self-help_41/index.html",
+      "trigger": "Self Help"
+    },
+    {
+      "target": "/historical_42/index.html",
+      "trigger": "Historical"
+    },
+    {
+      "target": "/christian_43/index.html",
+      "trigger": "Christian"
+    },
+    {
+      "target": "/suspense_44/index.html",
+      "trigger": "Suspense"
+    },
+    {
+      "target": "/short-stories_45/index.html",
+      "trigger": "Short Stories"
+    },
+    {
+      "target": "/novels_46/index.html",
+      "trigger": "Novels"
+    },
+    {
+      "target": "/health_47/index.html",
+      "trigger": "Health"
+    },
+    {
+      "target": "/politics_48/index.html",
+      "trigger": "Politics"
+    },
+    {
+      "target": "/cultural_49/index.html",
+      "trigger": "Cultural"
+    },
+    {
+      "target": "/erotica_50/index.html",
+      "trigger": "Erotica"
+    },
+    {
+      "target": "/crime_51/index.html",
+      "trigger": "Crime"
+    },
+    {
+      "target": "/a-light-in-the-attic_1000/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/a-light-in-the-attic_1000/index.html",
+      "trigger": "A Light in the ..."
+    },
+    {
+      "target": "/the-black-maria_991/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/the-black-maria_991/index.html",
+      "trigger": "The Black Maria"
+    },
+    {
+      "target": "/shakespeares-sonnets_989/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/shakespeares-sonnets_989/index.html",
+      "trigger": "Shakespeare's Sonnets"
+    },
+    {
+      "target": "/olio_984/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/olio_984/index.html",
+      "trigger": "Olio"
+    },
+    {
+      "target": "/you-cant-bury-them-all-poems_961/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/you-cant-bury-them-all-poems_961/index.html",
+      "trigger": "You can't bury them ..."
+    },
+    {
+      "target": "/slow-states-of-collapse-poems_960/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/slow-states-of-collapse-poems_960/index.html",
+      "trigger": "Slow States of Collapse: ..."
+    },
+    {
+      "target": "/untitled-collection-sabbath-poems-2014_953/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/untitled-collection-sabbath-poems-2014_953/index.html",
+      "trigger": "Untitled Collection: Sabbath Poems ..."
+    },
+    {
+      "target": "/poems-that-make-grown-women-cry_824/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/poems-that-make-grown-women-cry_824/index.html",
+      "trigger": "Poems That Make Grown ..."
+    },
+    {
+      "target": "/night-sky-with-exit-wounds_822/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/night-sky-with-exit-wounds_822/index.html",
+      "trigger": "Night Sky with Exit ..."
+    },
+    {
+      "target": "/salt_731/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/salt_731/index.html",
+      "trigger": "salt."
+    },
+    {
+      "target": "/quarter-life-poetry-poems-for-the-young-broke-and-hangry_727/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/quarter-life-poetry-poems-for-the-young-broke-and-hangry_727/index.html",
+      "trigger": "Quarter Life Poetry: Poems ..."
+    },
+    {
+      "target": "/out-of-print-city-lights-spotlight-no-14_536/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/out-of-print-city-lights-spotlight-no-14_536/index.html",
+      "trigger": "Out of Print: City ..."
+    },
+    {
+      "target": "/les-fleurs-du-mal_530/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/les-fleurs-du-mal_530/index.html",
+      "trigger": "Les Fleurs du Mal"
+    },
+    {
+      "target": "/howl-and-other-poems_522/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/howl-and-other-poems_522/index.html",
+      "trigger": "Howl and Other Poems"
+    },
+    {
+      "target": "/leave-this-song-behind-teen-poetry-at-its-best_474/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/leave-this-song-behind-teen-poetry-at-its-best_474/index.html",
+      "trigger": "Leave This Song Behind: ..."
+    },
+    {
+      "target": "/the-collected-poems-of-wb-yeats-the-collected-works-of-wb-yeats-1_441/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/the-collected-poems-of-wb-yeats-the-collected-works-of-wb-yeats-1_441/index.html",
+      "trigger": "The Collected Poems of ..."
+    },
+    {
+      "target": "/the-crossover_398/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/the-crossover_398/index.html",
+      "trigger": "The Crossover"
+    },
+    {
+      "target": "/booked_365/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/booked_365/index.html",
+      "trigger": "Booked"
+    },
+    {
+      "target": "/twenty-love-poems-and-a-song-of-despair_91/index.html",
+      "trigger": "[unlabeled link]"
+    },
+    {
+      "target": "/twenty-love-poems-and-a-song-of-despair_91/index.html",
+      "trigger": "Twenty Love Poems and ..."
+    }
+  ],
+  "forms": [
+    {
+      "formIndex": 0,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": null
+    },
+    {
+      "formIndex": 1,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 2,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 3,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 4,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 5,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 6,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 7,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 8,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 9,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 10,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 11,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 12,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 13,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 14,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 15,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 16,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 17,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 18,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    },
+    {
+      "formIndex": 19,
+      "action": null,
+      "method": "GET",
+      "fields": [],
+      "submitButtonText": "Add to basket"
+    }
+  ],
+  "buttons": [],
+  "tables": [],
+  "networkCallsObserved": [],
+  "errorsObserved": [
+    {
+      "type": "console-error",
+      "message": "Mixed Content: The page at 'https://books.toscrape.com/catalogue/category/books/poetry_23/index.html' was loaded over HTTPS, but requested an insecure script 'http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'. This request has been blocked; the content must be served over HTTPS.",
+      "context": "on page load: /catalogue/category/books/poetry_23/index.html"
+    }
+  ]
+}

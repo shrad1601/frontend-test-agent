@@ -1,0 +1,95 @@
+{
+  "feature": "Book Categories",
+  "cases": [
+    {
+      "id": "TC-NAV-001",
+      "description": "Navigate to the Travel category page and verify the title and URL.",
+      "type": "happy-path",
+      "page": "/catalogue/category/books/travel_2/index.html",
+      "action": "Visit the Travel category page.",
+      "dataNeeded": "none",
+      "observedSelector": null
+    },
+    {
+      "id": "TC-NAV-002",
+      "description": "Navigate to the Science Fiction category page and verify the title and URL.",
+      "type": "happy-path",
+      "page": "/catalogue/category/books/science-fiction_16/index.html",
+      "action": "Visit the Science Fiction category page.",
+      "dataNeeded": "none",
+      "observedSelector": null
+    },
+    {
+      "id": "TC-NAV-003",
+      "description": "Click on the link to the Fiction category and verify the title and URL.",
+      "type": "happy-path",
+      "page": "/catalogue/category/books/fiction_10/index.html",
+      "action": "Click the link to the Fiction category.",
+      "dataNeeded": "none",
+      "observedSelector": "Fiction"
+    },
+    {
+      "id": "TC-FORM-001",
+      "description": "Submit the form to Add to basket for a book in the Travel category, and check for success.",
+      "type": "happy-path",
+      "page": "/catalogue/category/books/travel_2/index.html",
+      "action": "Click the Add to basket button.",
+      "dataNeeded": "none",
+      "observedSelector": "Add to basket"
+    },
+    {
+      "id": "TC-FORM-002",
+      "description": "Submit with an empty required fields scenario in the Travel category form.",
+      "type": "validation",
+      "page": "/catalogue/category/books/travel_2/index.html",
+      "action": "Attempt to submit the form without filling required fields.",
+      "dataNeeded": "none",
+      "observedSelector": "Add to basket"
+    },
+    {
+      "id": "TC-ERROR-001",
+      "description": "Reproduce the console error observed during the loading of the Science Fiction category page.",
+      "type": "error-scenario",
+      "page": "/catalogue/category/books/science-fiction_16/index.html",
+      "action": "Visit the Science Fiction category page.",
+      "dataNeeded": "none",
+      "observedSelector": null
+    },
+    {
+      "id": "TC-LINK-001",
+      "description": "Follow the link to the Children's category and verify the title and URL.",
+      "type": "happy-path",
+      "page": "/catalogue/category/books/childrens_11/index.html",
+      "action": "Click the link to the Children's category.",
+      "dataNeeded": "none",
+      "observedSelector": "Childrens"
+    },
+    {
+      "id": "TC-LINK-002",
+      "description": "Click on the link to the Autobiography category and verify the title and URL.",
+      "type": "happy-path",
+      "page": "/catalogue/category/books/autobiography_27/index.html",
+      "action": "Click the link to the Autobiography category.",
+      "dataNeeded": "none",
+      "observedSelector": "Autobiography"
+    },
+    {
+      "id": "TC-LINK-003",
+      "description": "Navigate to the Horror category using the observed link and check for title and URL.",
+      "type": "happy-path",
+      "page": "/catalogue/category/books/horror_31/index.html",
+      "action": "Click the link to the Horror category.",
+      "dataNeeded": "none",
+      "observedSelector": "Horror"
+    },
+    {
+      "id": "TC-NAV-004",
+      "description": "Navigate to the Classics category and verify the title and URL.",
+      "type": "happy-path",
+      "page": "/catalogue/category/books/classics_6/index.html",
+      "action": "Visit the Classics category page.",
+      "dataNeeded": "none",
+      "observedSelector": null
+    }
+  ]
+}
