@@ -1,0 +1,190 @@
+{
+  "feature": "Home",
+  "cases": [
+    {
+      "id": "TC-NAV-030",
+      "description": "Load / and record page state",
+      "type": "happy-path",
+      "page": "/",
+      "action": "navigate and observe",
+      "dataNeeded": "none",
+      "observedSelector": null,
+      "formFields": null
+    },
+    {
+      "id": "TC-LINK-409",
+      "description": "Follow link \"Books to Scrape\" from /",
+      "type": "happy-path",
+      "page": "/",
+      "action": "click link \"Books to Scrape\" and record destination",
+      "dataNeeded": "none",
+      "observedSelector": "Books to Scrape",
+      "formFields": null,
+      "linkTarget": "/index.html"
+    },
+    {
+      "id": "TC-LINK-410",
+      "description": "Follow link \"Home\" from /",
+      "type": "happy-path",
+      "page": "/",
+      "action": "click link \"Home\" and record destination",
+      "dataNeeded": "none",
+      "observedSelector": "Home",
+      "formFields": null,
+      "linkTarget": "/index.html"
+    },
+    {
+      "id": "TC-LINK-411",
+      "description": "Follow link \"Books\" from /",
+      "type": "happy-path",
+      "page": "/",
+      "action": "click link \"Books\" and record destination",
+      "dataNeeded": "none",
+      "observedSelector": "Books",
+      "formFields": null,
+      "linkTarget": "/catalogue/category/books_1/index.html"
+    },
+    {
+      "id": "TC-LINK-412",
+      "description": "Follow link \"Travel\" from /",
+      "type": "happy-path",
+      "page": "/",
+      "action": "click link \"Travel\" and record destination",
+      "dataNeeded": "none",
+      "observedSelector": "Travel",
+      "formFields": null,
+      "linkTarget": "/catalogue/category/books/travel_2/index.html"
+    },
+    {
+      "id": "TC-LINK-413",
+      "description": "Follow link \"Mystery\" from /",
+      "type": "happy-path",
+      "page": "/",
+      "action": "click link \"Mystery\" and record destination",
+      "dataNeeded": "none",
+      "observedSelector": "Mystery",
+      "formFields": null,
+      "linkTarget": "/catalogue/category/books/mystery_3/index.html"
+    },
+    {
+      "id": "TC-LINK-414",
+      "description": "Follow link \"Historical Fiction\" from /",
+      "type": "happy-path",
+      "page": "/",
+      "action": "click link \"Historical Fiction\" and record destination",
+      "dataNeeded": "none",
+      "observedSelector": "Historical Fiction",
+      "formFields": null,
+      "linkTarget": "/catalogue/category/books/historical-fiction_4/index.html"
+    },
+    {
+      "id": "TC-LINK-415",
+      "description": "Follow link \"Sequential Art\" from /",
+      "type": "happy-path",
+      "page": "/",
+      "action": "click link \"Sequential Art\" and record destination",
+      "dataNeeded": "none",
+      "observedSelector": "Sequential Art",
+      "formFields": null,
+      "linkTarget": "/catalogue/category/books/sequential-art_5/index.html"
+    },
+    {
+      "id": "TC-LINK-416",
+      "description": "Follow link \"Classics\" from /",
+      "type": "happy-path",
+      "page": "/",
+      "action": "click link \"Classics\" and record destination",
+      "dataNeeded": "none",
+      "observedSelector": "Classics",
+      "formFields": null,
+      "linkTarget": "/catalogue/category/books/classics_6/index.html"
+    },
+    {
+      "id": "TC-LINK-417",
+      "description": "Follow link \"Philosophy\" from /",
+      "type": "happy-path",
+      "page": "/",
+      "action": "click link \"Philosophy\" and record destination",
+      "dataNeeded": "none",
+      "observedSelector": "Philosophy",
+      "formFields": null,
+      "linkTarget": "/catalogue/category/books/philosophy_7/index.html"
+    },
+    {
+      "id": "TC-LINK-418",
+      "description": "Follow link \"Romance\" from /",
+      "type": "happy-path",
+      "page": "/",
+      "action": "click link \"Romance\" and record destination",
+      "dataNeeded": "none",
+      "observedSelector": "Romance",
+      "formFields": null,
+      "linkTarget": "/catalogue/category/books/romance_8/index.html"
+    },
+    {
+      "id": "TC-LINK-419",
+      "description": "Follow link \"Womens Fiction\" from /",
+      "type": "happy-path",
+      "page": "/",
+      "action": "click link \"Womens Fiction\" and record destination",
+      "dataNeeded": "none",
+      "observedSelector": "Womens Fiction",
+      "formFields": null,
+      "linkTarget": "/catalogue/category/books/womens-fiction_9/index.html"
+    },
+    {
+      "id": "TC-LINK-420",
+      "description": "Follow link \"Fiction\" from /",
+      "type": "happy-path",
+      "page": "/",
+      "action": "click link \"Fiction\" and record destination",
+      "dataNeeded": "none",
+      "observedSelector": "Fiction",
+      "formFields": null,
+      "linkTarget": "/catalogue/category/books/fiction_10/index.html"
+    },
+    {
+      "id": "TC-LINK-421",
+      "description": "Follow link \"Childrens\" from /",
+      "type": "happy-path",
+      "page": "/",
+      "action": "click link \"Childrens\" and record destination",
+      "dataNeeded": "none",
+      "observedSelector": "Childrens",
+      "formFields": null,
+      "linkTarget": "/catalogue/category/books/childrens_11/index.html"
+    },
+    {
+      "id": "TC-LINK-422",
+      "description": "Follow link \"Religion\" from /",
+      "type": "happy-path",
+      "page": "/",
+      "action": "click link \"Religion\" and record destination",
+      "dataNeeded": "none",
+      "observedSelector": "Religion",
+      "formFields": null,
+      "linkTarget": "/catalogue/category/books/religion_12/index.html"
+    },
+    {
+      "id": "TC-LINK-423",
+      "description": "Follow link \"Nonfiction\" from /",
+      "type": "happy-path",
+      "page": "/",
+      "action": "click link \"Nonfiction\" and record destination",
+      "dataNeeded": "none",
+      "observedSelector": "Nonfiction",
+      "formFields": null,
+      "linkTarget": "/catalogue/category/books/nonfiction_13/index.html"
+    },
+    {
+      "id": "TC-ERR-030",
+      "description": "Observe 1 error(s) on /",
+      "type": "error-scenario",
+      "page": "/",
+      "action": "navigate and capture all console and network errors",
+      "dataNeeded": "none",
+      "observedSelector": null,
+      "formFields": null
+    }
+  ]
+}
